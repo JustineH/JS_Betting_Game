@@ -1,0 +1,18 @@
+html {
+  background-color: #fafafa;
+}
+
+h2 {
+  padding-left: 25%;
+}
+
+#message {
+  font-size: 20px;
+  padding-left: 25%;
+}
+
+.btn {
+  background-color: #5e35b1 !important;
+}
+
+
